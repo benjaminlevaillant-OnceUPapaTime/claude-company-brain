@@ -108,7 +108,7 @@ On ne construit pas un seul système, mais trois, qui servent des besoins diffé
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│              COUCHE 3 — Data Lake (roadmap)             │
+│              COUCHE 3 — Data Lake             │
 │   La donnée vivante de l'entreprise. Temps réel.        │
 │   CRM, outils de monitoring, produit SaaS.              │
 └─────────────────────────────────────────────────────────┘
@@ -651,7 +651,7 @@ La donnée ne bouge pas. La gouvernance ne change pas. Seul le moteur est rempla
 | **Mémoire** | Terme générique désignant toute source de contexte mise à disposition de Claude au démarrage d'une conversation. Trois types : Journal, Company Brain, Data Lake. |
 | **Company Brain** | La mémoire long terme de l'entreprise. Pages thématiques stables dans Notion. Équivalent du disque dur. |
 | **Journal** | La mémoire court terme d'un projet. Sections actives (TODO, EN COURS, EN ATTENTE, SUJETS STABLES) + base de sessions. Équivalent de la RAM. |
-| **Data Lake** | *(Roadmap)* Troisième couche. Données opérationnelles en temps réel issues des outils de l'entreprise. |
+| **Data Lake** | Troisième couche. Données opérationnelles en temps réel issues des outils de l'entreprise. |
 | **Data froide** | Données stables, rédigées manuellement. Couches 1 et 2. |
 | **Data chaude** | Données opérationnelles en temps réel. Couche 3. |
 | **Champion** | Responsable d'une page du Company Brain. Seul le Champion (et les admins) peut modifier sa page. |
