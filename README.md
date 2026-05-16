@@ -58,7 +58,7 @@ Claude oublie tout entre deux conversations — c'est son défaut structurel. Ce
 
 - Le **Journal** — ce qui se passe dans les projets (court terme)
 - Le **Company Brain** — ce que votre entreprise sait (long terme)
-- Le **Data Lake** *(roadmap)* — la donnée opérationnelle en temps réel
+- Le **Data Lake** — la donnée opérationnelle en temps réel
 
 Le Journal se met à jour via `/sync` en fin de session et `/feed` en cours de session. Le Brain est géré par des Champions désignés, avec un Brain Check mensuel pour garantir sa cohérence.
 
