@@ -2,7 +2,7 @@
 title: "Donner une mémoire permanente à Claude — Architecture & Guide pratique"
 description: "Un système complet pour construire une mémoire persistante pour Claude AI dans votre entreprise : Journal (court terme), Company Brain (long terme) et gouvernance. Basé sur Notion, MCP et Git."
 lang: fr
-author: Benjamin Le Ray
+author: Benjamin Levaillant
 tags: [claude, anthropic, llm, notion, knowledge-management, ai-memory, company-brain, mcp, memory-architecture]
 license: CC-BY-4.0
 ---
