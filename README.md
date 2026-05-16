@@ -191,13 +191,12 @@ La mémoire long terme de votre entreprise. Ce qui ne change pas souvent mais qu
 
 ---
 
-### Couche 3 — Le Data Lake *(roadmap)*
+### Couche 3 — Le Data Lake
 
 La donnée opérationnelle en temps réel. Agrège des données issues des outils de l'entreprise — CRM (HubSpot, Salesforce…), monitoring (Datadog…), produit SaaS.
 
 Claude pourra répondre à des questions comme *"combien d'utilisateurs actifs ce mois-ci ?"* en puisant dans la donnée réelle, pas dans un document rédigé il y a trois mois.
 
-**Cette couche est en cours de construction.**
 
 ---
 
@@ -209,7 +208,7 @@ Au démarrage de chaque conversation Claude :
 2. Il charge systématiquement toutes les pages taguées `Contexte`
 3. Il charge les pages taguées `Référence` si leur titre indique une pertinence
 4. Il charge le **Journal du projet** pour récupérer le contexte récent
-5. *(Roadmap)* Il interroge le **Data Lake** pour des données en temps réel
+5. Il interroge le **Data Lake** pour des données en temps réel
 
 À la fin de la conversation :
 - `/sync` → Claude résume et met à jour le Journal
